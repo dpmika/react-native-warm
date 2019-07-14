@@ -44,7 +44,7 @@ npm start
 
 ## Articolo
 
-Add additional notes about how to deploy this on a live system
+* [Articolo Medium](https://medium.com/@michaelmddipietro/react-native-sviluppiamo-un-app-meteo-23cb48b079b0)
 
 ## Built With
 
